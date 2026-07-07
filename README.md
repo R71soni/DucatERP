@@ -1,6 +1,6 @@
-# DuctERP
+# DucatERP
 
-DuctERP is a Java Full Stack ERP Web Application.
+DucatERP is a Java Full Stack ERP Web Application.
 
 ## Technologies Used
 - Java
